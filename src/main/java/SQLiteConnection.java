@@ -2,7 +2,7 @@ import java.sql.*;
 
 public class SQLiteConnection {
     public static void main(String[] args) throws SQLException, ClassNotFoundException {
-        String url = "jdbc:sqlite:D:/^Konrad/^URz/Obiektówka/SQLiteStudio/BAZA_PRODUKTOW.db";
+        String url = "jdbc:sqlite:BAZA_PRODUKTOW.db";
         Connection con = DriverManager.getConnection(url);
         Class.forName("org.sqlite.JDBC");
         Statement stmt = con.createStatement();

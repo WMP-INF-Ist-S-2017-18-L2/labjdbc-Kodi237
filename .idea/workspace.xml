@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="df2b07ac-f818-4101-a874-72707c23daad" name="Default Changelist" comment="" />
+    <list default="true" id="df2b07ac-f818-4101-a874-72707c23daad" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BAZA_PRODUKTOW.db" beforeDir="false" afterPath="$PROJECT_DIR$/BAZA_PRODUKTOW.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/SQLiteConnection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SQLiteConnection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/SQLiteConnection.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SQLiteConnection.class" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -27,11 +33,13 @@
     <session id="81405561">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="5" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.7" value="1" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -70,7 +78,7 @@
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="425">
-              <caret line="25" column="21" lean-forward="true" selection-start-line="25" selection-start-column="21" selection-end-line="25" selection-end-column="21" />
+              <caret line="25" column="21" selection-start-line="25" selection-start-column="21" selection-end-line="25" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -87,8 +95,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/SQLiteConnection.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="23" column="1" lean-forward="true" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+            <state relative-caret-position="68">
+              <caret line="4" column="53" lean-forward="true" selection-start-line="4" selection-start-column="53" selection-end-line="4" selection-end-column="53" />
             </state>
           </provider>
         </entry>
@@ -97,7 +105,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/PostgresConnection.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="374">
-              <caret line="22" column="5" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="22" selection-end-column="5" />
+              <caret line="22" column="5" selection-start-line="3" selection-start-column="4" selection-end-line="22" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -137,7 +145,7 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="953" />
     <option name="width" value="974" />
     <option name="height" value="1087" />
@@ -184,7 +192,7 @@
     <property name="DatabaseDriversLRU" value="mysql&#10;sqlite" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541532866026" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541534457380" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -251,28 +259,28 @@
       <updated>1540480384390</updated>
       <workItem from="1540480387656" duration="761000" />
       <workItem from="1541502509326" duration="176000" />
-      <workItem from="1541525854243" duration="5995000" />
+      <workItem from="1541525854243" duration="6622000" />
+      <workItem from="1541533901250" duration="6000" />
+      <workItem from="1541534381610" duration="82000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6932000" />
+    <option name="totallyTimeSpent" value="7647000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.11673774" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.11886994" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" weight="0.32952183" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.23492724" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.23492724" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -281,6 +289,7 @@
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32952183" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -330,14 +339,7 @@
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="425">
-          <caret line="25" column="21" lean-forward="true" selection-start-line="25" selection-start-column="21" selection-end-line="25" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/PostgresConnection.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="5" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="22" selection-end-column="5" />
+          <caret line="25" column="21" selection-start-line="25" selection-start-column="21" selection-end-line="25" selection-end-column="21" />
         </state>
       </provider>
     </entry>
@@ -348,10 +350,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/PostgresConnection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="5" selection-start-line="3" selection-start-column="4" selection-end-line="22" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/SQLiteConnection.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" column="1" lean-forward="true" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+        <state relative-caret-position="68">
+          <caret line="4" column="53" lean-forward="true" selection-start-line="4" selection-start-column="53" selection-end-line="4" selection-end-column="53" />
         </state>
       </provider>
     </entry>
